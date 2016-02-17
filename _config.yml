@@ -1,28 +1,40 @@
-name: mkv-blockchain
-favicon: null
 layout_spectrum: 0.2110991624649614
-typography_spectrum: 0.4898058995604515
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.618887
+  brandStrength: 0.02570916735567153
+  lightness: 0.4595278
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.025709167355671525
-  lightness: 0.6759347578044981
-  saturation: 0.3461801428347826
-  rhythmicContrast: 0.8652042739558965
-purpose: []
+  rhythmicContrast: 0.9005059
+typography_spectrum: 0.2183811
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: mkv-blockchain
