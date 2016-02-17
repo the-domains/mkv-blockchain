@@ -4,36 +4,8 @@
         <description><![CDATA[mkv-blockchain]]></description>
         <link>https://thegrid.ai/mkv-blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:05:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 00:04:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-blockchain/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Full room at &num;BlockchainLondon Conf&excl; &commat;FinTechWeek" src="https://pbs.twimg.com/media/CYg0CydWMAADn2o.jpg:large">]]></description>
-            <link>https://twitter.com/makevoid/status/686856165838450688</link>
-            <guid isPermaLink="false">a50a0cc6-a306-4693-8bb1-22faa175cc2b</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Ma @Confesercenti contro le monete virtuali, lo fa perché connivente con gli evasori o per quale motivo in particolare?</p>]]></description>
-            <link>https://twitter.com/lastknight/status/672113167007371264</link>
-            <guid isPermaLink="false">37958f7e-b448-44e3-a998-d8c0ee86fa21</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Don't lament the past. Don't try to influence the present. PWN the future!</p>]]></description>
-            <link>https://twitter.com/aantonop/status/677977069242871808</link>
-            <guid isPermaLink="false">fc724681-ff37-4013-a879-ae957a4c304e</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Awesome @Tierion ! Similar idea here! A programming langs library that has a builtin wallet and a function to write a mex to the blockchain</p>]]></description>
-            <link>https://twitter.com/makevoid/status/634882891097481216</link>
-            <guid isPermaLink="false">e37b27d4-f442-48d2-9d84-202caa134657</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Ethereum &num;devcon1 day 5 started&excl; Nick Szabo presenting the History of Blockchain" src="https://pbs.twimg.com/media/CTritbIXAAAMCU8.jpg:large">]]></description>
@@ -75,6 +47,34 @@
             <link>https://twitter.com/makevoid/status/626865595561193472</link>
             <guid isPermaLink="false">1ce4da9c-cee8-4390-8ded-94580792c193</guid>
             <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I just suddenly remembered that Bitcoin is a thing and thought "...weird"</p>]]></description>
+            <link>https://twitter.com/garybernhardt/status/633454025325735936</link>
+            <guid isPermaLink="false">4c1777f2-0945-413a-9ad0-255401f68261</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="&commat;intel &num;Edison with &num;bitcoin &num;blockchain in it&comma; wirelessly charging in &commat;Starbucks - &commat;Inteliot - &commat;NeverPowerless" src="https://pbs.twimg.com/media/CIgot9wWEAEfZq6.jpg:large">]]></description>
+            <link>https://twitter.com/makevoid/status/614786153334579201</link>
+            <guid isPermaLink="false">7d327096-ff6a-4878-a473-51fc270a6c40</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I was trying to say that Bitcoin is p2p & Decentralized: https://www.youtube.com/watch?feature=youtu.be&t=18m10s&v=3ifeFIiOacA ... :D @BathRuby vid: @confreaks slides: http://bitbath.mkvd.net</p>]]></description>
+            <link>https://twitter.com/makevoid/status/611354840892067840</link>
+            <guid isPermaLink="false">3ae753ed-e37e-4ce5-8488-dbd62fdf7ff6</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="DevCore London&comma; Gavin Andresen&apos;s talk is starting&excl;" src="https://pbs.twimg.com/media/CCnncLpWMAAU32p.jpg:large">]]></description>
+            <link>https://twitter.com/makevoid/status/588255702608666624</link>
+            <guid isPermaLink="false">52d23e2e-748a-4d00-9bbf-52b0d94ff170</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
