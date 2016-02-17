@@ -4,22 +4,8 @@
         <description><![CDATA[mkv-blockchain]]></description>
         <link>https://thegrid.ai/mkv-blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 00:03:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-blockchain/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://www.youtube.com/watch?v=Itv1Di5-NOM ... next-gen Website Generator - accepts #bitcoin: https://thegrid.io - #websites + #AI @BitcoinKinetics @bit_ita</p>]]></description>
-            <link>https://twitter.com/makevoid/status/626865595561193472</link>
-            <guid isPermaLink="false">1ce4da9c-cee8-4390-8ded-94580792c193</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I just suddenly remembered that Bitcoin is a thing and thought "...weird"</p>]]></description>
-            <link>https://twitter.com/garybernhardt/status/633454025325735936</link>
-            <guid isPermaLink="false">4c1777f2-0945-413a-9ad0-255401f68261</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="&commat;intel &num;Edison with &num;bitcoin &num;blockchain in it&comma; wirelessly charging in &commat;Starbucks - &commat;Inteliot - &commat;NeverPowerless" src="https://pbs.twimg.com/media/CIgot9wWEAEfZq6.jpg:large">]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<p>https://www.youtube.com/watch?v=0Las10IXkEY ... Ariadne Capital CEO Julie Meyer talks about bitcoin, unbanked people, startups and remittances</p>]]></description>
             <link>https://twitter.com/makevoid/status/593535868515721218</link>
             <guid isPermaLink="false">473d3575-009d-4d43-97cf-c190c9be4222</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="http&colon;&sol;&sol;dogenfc&period;com" src="https://pbs.twimg.com/media/CFfhZJXW8AE6gEZ.png:large">]]></description>
+            <link>https://twitter.com/makevoid/status/601196898754625537</link>
+            <guid isPermaLink="false">a1aaf04d-7e3f-49b8-b20d-a40a05f2b21a</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Lightning talk about Bitcoin and Ruby at @BathRuby video: https://www.youtube.com/watch?v=3ifeFIiOacA&t=18m10s ... slides: http://bitbath.mkvd.net</p>]]></description>
+            <link>https://twitter.com/makevoid/status/586566292578181122</link>
+            <guid isPermaLink="false">8c228743-5a99-499a-b7f5-92d3131526e0</guid>
             <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
         </item>
     </channel>
