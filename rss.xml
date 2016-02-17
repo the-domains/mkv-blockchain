@@ -4,8 +4,15 @@
         <description><![CDATA[mkv-blockchain]]></description>
         <link>https://thegrid.ai/mkv-blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 00:05:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-blockchain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Full room at &num;BlockchainLondon Conf&excl; &commat;FinTechWeek" src="https://pbs.twimg.com/media/CYg0CydWMAADn2o.jpg:large">]]></description>
+            <link>https://twitter.com/makevoid/status/686856165838450688</link>
+            <guid isPermaLink="false">a50a0cc6-a306-4693-8bb1-22faa175cc2b</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Ma @Confesercenti contro le monete virtuali, lo fa perché connivente con gli evasori o per quale motivo in particolare?</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/makevoid/status/626865595561193472</link>
             <guid isPermaLink="false">1ce4da9c-cee8-4390-8ded-94580792c193</guid>
             <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I just suddenly remembered that Bitcoin is a thing and thought "...weird"</p>]]></description>
-            <link>https://twitter.com/garybernhardt/status/633454025325735936</link>
-            <guid isPermaLink="false">4c1777f2-0945-413a-9ad0-255401f68261</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
