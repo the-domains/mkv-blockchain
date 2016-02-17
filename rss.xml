@@ -4,8 +4,29 @@
         <description><![CDATA[mkv-blockchain]]></description>
         <link>https://thegrid.ai/mkv-blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 00:02:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-blockchain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I couldn't explain bitcoin client (using bitcoind JSON API) very well because of the time, here's a sample project: https://github.com/makevoid/bitcoin_client_example_cool ...</p>]]></description>
+            <link>https://twitter.com/makevoid/status/611357812455817216</link>
+            <guid isPermaLink="false">13b08461-494e-49d8-9dce-40982b73c326</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="http&colon;&sol;&sol;paperbank&period;it for paper wallets - http&colon;&sol;&sol;bitnfc&period;org for NFC wallets" src="https://pbs.twimg.com/media/CGvMGoMUkAEp1Va.png:large">]]></description>
+            <link>https://twitter.com/makevoid/status/606802990410919936</link>
+            <guid isPermaLink="false">17f0f0b9-dff8-408d-b8d7-238b2367da5a</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Webcoin, SPV bitcoin payments via node and the browser! (+webrtc) https://github.com/mappum/webcoin Awesome!</p>]]></description>
+            <link>https://twitter.com/makevoid/status/605339421307760640</link>
+            <guid isPermaLink="false">7e766763-271d-4300-a923-2ee5af6b56bb</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>you can come up with any regexp you want http://github.com/samr7/vanitygen I'm using: vanitygen -r '1[1-9]h[1-5][1-9]m'</p>]]></description>
@@ -53,20 +74,6 @@
             <description><![CDATA[<img alt="&commat;benatkin solution&colon;" src="https://pbs.twimg.com/media/CIFuvxhW8AE6BTU.jpg:large">]]></description>
             <link>https://twitter.com/makevoid/status/612892798765936640</link>
             <guid isPermaLink="false">1167af3a-2a9d-4c53-b156-72a1577e2c94</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>RT @MichaelKindt "Ignorance is bliss is what should be stamped on our money, not in god we trust."</p>]]></description>
-            <link>https://twitter.com/makevoid/status/26323966982</link>
-            <guid isPermaLink="false">3944c9db-442c-4a61-b8c1-7393e95986b7</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DSCF1298]]></title>
-            <description><![CDATA[<article><h1>DSCF1298</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6eaec971597f2ea80cf45d4b344fb1af71a505f.jpg"></article>]]></description>
-            <link>https://www.flickr.com/photos/simonstarr/16831284558/in/album-72157651314895520/</link>
-            <guid isPermaLink="false">30f28d9a-45e0-4440-bacb-e2b064a00a27</guid>
             <pubDate>Tue, 16 Feb 2016 23:57:52 GMT</pubDate>
         </item>
     </channel>
