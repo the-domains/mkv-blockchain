@@ -4,8 +4,22 @@
         <description><![CDATA[mkv-blockchain]]></description>
         <link>https://thegrid.ai/mkv-blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:05:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 00:06:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-blockchain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Blockchain&comma; public vs private panel at &num;BlockchainLondon &commat;jonmatonis &commat;GeorgeAHallam &commat;anishmohammed&comma; Nick Williamson" src="https://pbs.twimg.com/media/CYg36djWQAA1rbi.jpg:large">]]></description>
+            <link>https://twitter.com/makevoid/status/686860425477140480</link>
+            <guid isPermaLink="false">b4445349-0495-4b98-88df-e75bb8c49443</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="BlockchainLondon conference started&comma; Adi Ben-Ari&apos;s keynote&colon; Blockchain 101" src="https://pbs.twimg.com/media/CYgyF81U0AALNV9.jpg:large">]]></description>
+            <link>https://twitter.com/makevoid/status/686854021127143425</link>
+            <guid isPermaLink="false">21f48329-228a-4489-b58d-72cd22846a2e</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="A &num;bblf moment of discussion on bitcoin &num;scalability" src="https://pbs.twimg.com/media/CZzfQxCWkAAV2kp.jpg:large">]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<img alt="Ethereum &num;devcon1 is starting&excl;" src="https://pbs.twimg.com/media/CTW_ODQXIAA_jOc.jpg:large">]]></description>
             <link>https://twitter.com/makevoid/status/663646846871609344</link>
             <guid isPermaLink="false">ead13938-fa28-43d3-a348-24fba26d2e7e</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Blockchain is #OpenData</p>]]></description>
-            <link>https://twitter.com/makevoid/status/633729013882691584</link>
-            <guid isPermaLink="false">bb93c308-6edf-40e7-8b79-14b57439fc41</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OP_RETURN Bitcoin transaction with Ruby and Electrum]]></title>
-            <description><![CDATA[<article><h1>OP_RETURN Bitcoin transaction with Ruby and Electrum</h1><p>This post is a basic introduction to the OP_RETURN Op Code , which can be used to store data in the Bitcoin Blockchain. Doing this requires an intermediate understanding of the Bitcoin protocol and some familiarity with the Ruby programming language Bitcoin is primarily known as a digital currency; however, it is much more than just a type of 'digital money'.</p></article>]]></description>
-            <link>http://www.alexleishman.com/posts/op-return-transactions/</link>
-            <guid isPermaLink="false">e78a6ee4-5fd3-4134-b5b7-64d9477915f0</guid>
             <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
         </item>
     </channel>
