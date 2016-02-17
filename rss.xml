@@ -4,8 +4,15 @@
         <description><![CDATA[mkv-blockchain]]></description>
         <link>https://thegrid.ai/mkv-blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:04:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 00:05:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-blockchain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Don't lament the past. Don't try to influence the present. PWN the future!</p>]]></description>
+            <link>https://twitter.com/aantonop/status/677977069242871808</link>
+            <guid isPermaLink="false">fc724681-ff37-4013-a879-ae957a4c304e</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Awesome @Tierion ! Similar idea here! A programming langs library that has a builtin wallet and a function to write a mex to the blockchain</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img alt="&commat;intel &num;Edison with &num;bitcoin &num;blockchain in it&comma; wirelessly charging in &commat;Starbucks - &commat;Inteliot - &commat;NeverPowerless" src="https://pbs.twimg.com/media/CIgot9wWEAEfZq6.jpg:large">]]></description>
             <link>https://twitter.com/makevoid/status/614786153334579201</link>
             <guid isPermaLink="false">7d327096-ff6a-4878-a473-51fc270a6c40</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I was trying to say that Bitcoin is p2p & Decentralized: https://www.youtube.com/watch?feature=youtu.be&t=18m10s&v=3ifeFIiOacA ... :D @BathRuby vid: @confreaks slides: http://bitbath.mkvd.net</p>]]></description>
-            <link>https://twitter.com/makevoid/status/611354840892067840</link>
-            <guid isPermaLink="false">3ae753ed-e37e-4ce5-8488-dbd62fdf7ff6</guid>
             <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
         </item>
     </channel>
