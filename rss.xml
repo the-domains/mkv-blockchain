@@ -4,8 +4,22 @@
         <description><![CDATA[mkv-blockchain]]></description>
         <link>https://thegrid.ai/mkv-blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 00:03:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-blockchain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OP_RETURN Bitcoin transaction with Ruby and Electrum]]></title>
+            <description><![CDATA[<article><h1>OP_RETURN Bitcoin transaction with Ruby and Electrum</h1><p>This post is a basic introduction to the OP_RETURN Op Code , which can be used to store data in the Bitcoin Blockchain. Doing this requires an intermediate understanding of the Bitcoin protocol and some familiarity with the Ruby programming language Bitcoin is primarily known as a digital currency; however, it is much more than just a type of 'digital money'.</p></article>]]></description>
+            <link>http://www.alexleishman.com/posts/op-return-transactions/</link>
+            <guid isPermaLink="false">e78a6ee4-5fd3-4134-b5b7-64d9477915f0</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=Itv1Di5-NOM ... next-gen Website Generator - accepts #bitcoin: https://thegrid.io - #websites + #AI @BitcoinKinetics @bit_ita</p>]]></description>
+            <link>https://twitter.com/makevoid/status/626865595561193472</link>
+            <guid isPermaLink="false">1ce4da9c-cee8-4390-8ded-94580792c193</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I just suddenly remembered that Bitcoin is a thing and thought "...weird"</p>]]></description>
@@ -60,20 +74,6 @@
             <description><![CDATA[<p>you can come up with any regexp you want http://github.com/samr7/vanitygen I'm using: vanitygen -r '1[1-9]h[1-5][1-9]m'</p>]]></description>
             <link>https://twitter.com/makevoid/status/604110516882120704</link>
             <guid isPermaLink="false">757ff6d8-9435-4f08-9ad2-65202b20798b</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://www.youtube.com/watch?v=0Las10IXkEY ... Ariadne Capital CEO Julie Meyer talks about bitcoin, unbanked people, startups and remittances</p>]]></description>
-            <link>https://twitter.com/makevoid/status/593535868515721218</link>
-            <guid isPermaLink="false">473d3575-009d-4d43-97cf-c190c9be4222</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="http&colon;&sol;&sol;dogenfc&period;com" src="https://pbs.twimg.com/media/CFfhZJXW8AE6gEZ.png:large">]]></description>
-            <link>https://twitter.com/makevoid/status/601196898754625537</link>
-            <guid isPermaLink="false">a1aaf04d-7e3f-49b8-b20d-a40a05f2b21a</guid>
             <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
         </item>
     </channel>
