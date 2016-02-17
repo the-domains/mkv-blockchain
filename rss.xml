@@ -4,8 +4,15 @@
         <description><![CDATA[mkv-blockchain]]></description>
         <link>https://thegrid.ai/mkv-blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 00:04:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-blockchain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="https&colon;&sol;&sol;raw&period;githubusercontent&period;com&sol;makevoid&sol;bitcoinbook&lowbar;translation&lowbar;it&lowbar;images&sol;master&sol;bitcoinbook&lowbar;chap2&lowbar;panoramica&lowbar;bitcoin&period;png &period;&period;&period; dal Cap&period; 2 di Mastering Bitcoin - &quot;Come funziona Bitcoin&quot; - http&colon;&sol;&sol;bitcoinbook-builds&period;mkvd&period;net&sol;translations&sol;it&sol;chapter-2&period;html &period;&period;&period; &commat;bit&lowbar;ita" src="https://pbs.twimg.com/media/CMkR4lqWcAAtY2_.png:large">]]></description>
+            <link>https://twitter.com/makevoid/status/633056887328649216</link>
+            <guid isPermaLink="false">885c6fb2-f7d1-4ff6-9c3e-493af3a098e4</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Ethereum &num;devcon1 is starting&excl;" src="https://pbs.twimg.com/media/CTW_ODQXIAA_jOc.jpg:large">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>I couldn't explain bitcoin client (using bitcoind JSON API) very well because of the time, here's a sample project: https://github.com/makevoid/bitcoin_client_example_cool ...</p>]]></description>
             <link>https://twitter.com/makevoid/status/611357812455817216</link>
             <guid isPermaLink="false">13b08461-494e-49d8-9dce-40982b73c326</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="http&colon;&sol;&sol;paperbank&period;it for paper wallets - http&colon;&sol;&sol;bitnfc&period;org for NFC wallets" src="https://pbs.twimg.com/media/CGvMGoMUkAEp1Va.png:large">]]></description>
-            <link>https://twitter.com/makevoid/status/606802990410919936</link>
-            <guid isPermaLink="false">17f0f0b9-dff8-408d-b8d7-238b2367da5a</guid>
             <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
         </item>
     </channel>
