@@ -4,8 +4,15 @@
         <description><![CDATA[mkv-blockchain]]></description>
         <link>https://thegrid.ai/mkv-blockchain/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 00:05:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 00:05:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mkv-blockchain/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ma @Confesercenti contro le monete virtuali, lo fa perché connivente con gli evasori o per quale motivo in particolare?</p>]]></description>
+            <link>https://twitter.com/lastknight/status/672113167007371264</link>
+            <guid isPermaLink="false">37958f7e-b448-44e3-a998-d8c0ee86fa21</guid>
+            <pubDate>Tue, 16 Feb 2016 23:57:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Don't lament the past. Don't try to influence the present. PWN the future!</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>I just suddenly remembered that Bitcoin is a thing and thought "...weird"</p>]]></description>
             <link>https://twitter.com/garybernhardt/status/633454025325735936</link>
             <guid isPermaLink="false">4c1777f2-0945-413a-9ad0-255401f68261</guid>
-            <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="&commat;intel &num;Edison with &num;bitcoin &num;blockchain in it&comma; wirelessly charging in &commat;Starbucks - &commat;Inteliot - &commat;NeverPowerless" src="https://pbs.twimg.com/media/CIgot9wWEAEfZq6.jpg:large">]]></description>
-            <link>https://twitter.com/makevoid/status/614786153334579201</link>
-            <guid isPermaLink="false">7d327096-ff6a-4878-a473-51fc270a6c40</guid>
             <pubDate>Tue, 16 Feb 2016 23:57:53 GMT</pubDate>
         </item>
     </channel>
