@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/makevoid/status/633729013882691584'
+inLanguage: en
+starred: false
+keywords:
+  - canessa
+  - blockchain
+  - location
+  - francesco
+  - twitter
+  - tweet
+  - software
+  - opendata
+  - copying
+  - bitcoin
+description: 'Blockchain is #OpenData'
+datePublished: '2016-02-26T01:11:04.239Z'
+dateModified: '2016-02-26T01:11:01.977Z'
 author:
   - name: makevoid
     url: 'http://twitter.com/makevoid'
@@ -23,36 +43,20 @@ author:
           - 130
           - 138
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - canessa
-  - blockchain
-  - location
-  - francesco
-  - twitter
-  - tweet
-  - software
-  - opendata
-  - copying
-  - bitcoin
-description: 'Blockchain is #OpenData'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/makevoid/status/633729013882691584'
-datePublished: '2016-02-16T23:57:54.319Z'
-dateModified: '2016-02-16T23:54:14.168Z'
 title: ''
 sourcePath: _posts/2016-02-16-blockchain-is-opendata.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12826bc3-c962-49c6-a0eb-e3615fc18865.png)
+
 > Blockchain is &num;OpenData
