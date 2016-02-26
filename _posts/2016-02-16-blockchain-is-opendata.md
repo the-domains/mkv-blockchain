@@ -17,8 +17,8 @@ keywords:
   - copying
   - bitcoin
 description: 'Blockchain is #OpenData'
-datePublished: '2016-02-26T01:11:04.239Z'
-dateModified: '2016-02-26T01:11:01.977Z'
+datePublished: '2016-02-26T09:37:50.767Z'
+dateModified: '2016-02-26T09:37:37.444Z'
 author:
   - name: makevoid
     url: 'http://twitter.com/makevoid'
@@ -57,6 +57,6 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12826bc3-c962-49c6-a0eb-e3615fc18865.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc7f2263-21b3-4373-80cd-409fc7b5d360.png)
 
-> Blockchain is &num;OpenData
+> Blockchain is \#OpenData
